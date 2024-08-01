@@ -3,3 +3,9 @@ DATA SCIENCE TASK - 3
 Credit Card Fraud detection 
 
 Accuracy: 0.9500729824314581
+
+Precision: 0.9743139285450108
+
+Recall: 0.9247226902555462
+
+F1-score: 0.9488707992652091
